@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+shell_exec("ls -la")
 ?>
