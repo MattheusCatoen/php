@@ -1,3 +1,3 @@
 <?php
-shell_exec("ls -la")
+shell_exec("ls -la");
 ?>
